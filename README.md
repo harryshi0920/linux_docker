@@ -25,8 +25,8 @@ rviz2
 
 ### Workspace
 
-(This is just for test the environment by a moveit demo)
-https://github.com/harryshi0920/dobot_ws
+(This is just for test the environment by a moveit demo)<br>
+https://github.com/harryshi0920/dobot_ws<br>
 Source files are mounted read-only at `/workspaces/dobot_ws/src`; edit them on the host. Build, install, and log directories persist in Docker volumes.
 
 ```bash
